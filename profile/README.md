@@ -4,7 +4,9 @@
 
 **Production-ready systems · Developer tooling · Open education**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Backend+infrastructure+that+survives+production;AI-native+developer+tooling;Market+data+%26+finance+microservices;Interactive+engineering+education" alt="Armert Labs tagline" />
+<sub>Üretim sınıfı sistemler · Geliştirici araçları · Açık eğitim</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Backend+infrastructure+that+survives+production;AI-native+developer+tooling;Market+data+%26+finance+microservices;Interactive+engineering+education;Uretim+altyapisi+%2B+AI+araclari+%2B+egitim" alt="Armert Labs tagline" />
 
 <br/>
 
@@ -54,6 +56,35 @@ developer experience over demo-driven hype.
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>🇹🇷 Misyon (Türkçe)</b></summary>
+<br/>
+
+<b>Armert Labs</b>, gerçek trafik, gerçek para ve gerçek kullanıcılarla sınanan
+<b>üretim sınıfı</b> yazılımlar geliştirir. Demo odaklı hype yerine doğruluk,
+gözlemlenebilirlik ve geliştirici deneyimine odaklanırız.
+
+> <b>Backend entropisini azalt. Sistem doğruluğunu artır.</b>
+
+| Alan | Odak |
+| --- | --- |
+| 🛡️ Güvenilirlik | Fail-safe auth, circuit breaker, staleness, drift monitoring |
+| 🧩 Modülerlik | Multi-tenant NestJS, npm paketleri, mikroservis sınırları |
+| 🤖 AI & DX | Claude Code & Cursor entegrasyonları, agent orkestrasyonu |
+| 📚 Bilgi | Offline-first eğitim, açık dokümantasyon |
+
+</details>
+
+---
+
+## Repository Index
+
+| Repository | Category | Live | Stars |
+| --- | --- | --- | ---: |
+| [**cursor-plugin**](https://github.com/Armert-Labs/cursor-plugin) | AI & Tooling | — | ![stars](https://img.shields.io/github/stars/Armert-Labs/cursor-plugin?style=flat-square&logo=github&color=2563EB) |
+| [**python-egitimi**](https://github.com/Armert-Labs/python-egitimi) | Education | [python.armert.com.tr](https://python.armert.com.tr) | ![stars](https://img.shields.io/github/stars/Armert-Labs/python-egitimi?style=flat-square&logo=github&color=2563EB) |
+| [**bist-data-service**](https://github.com/Armert-Labs/bist-data-service) | Finance & Data | — | ![stars](https://img.shields.io/github/stars/Armert-Labs/bist-data-service?style=flat-square&logo=github&color=2563EB) |
 
 ---
 
@@ -183,6 +214,19 @@ Reusable backend building blocks published under the Armert brand:
 | **Test what matters** | Real behavior over vanity coverage; CI gates on every merge |
 | **Open when possible** | MIT / Apache-2.0, documented setup, reproducible builds |
 
+<details>
+<summary><b>🇹🇷 İlkeler (Türkçe)</b></summary>
+<br/>
+
+| İlke | Anlamı |
+| --- | --- |
+| **Fail-safe varsayılanlar** | Auth varsayılan açık, readiness probe, sessiz veri bozulması yok |
+| **Gözlemlenebilirlik** | Metrikler, yapılandırılmış log, request tracing |
+| **Anlamlı testler** | Vanity coverage değil, gerçek davranış; CI merge gate |
+| **Mümkün olduğunca açık** | MIT / Apache-2.0, dokümante kurulum, tekrarlanabilir build |
+
+</details>
+
 ---
 
 ## Connect
@@ -199,4 +243,6 @@ Reusable backend building blocks published under the Armert brand:
 <img src="https://img.shields.io/badge/Made_in-T%C3%BCrkiye-E30A17?style=flat-square&logo=googlemaps&logoColor=white" alt="Made in Türkiye" />
 <br/><br/>
 <sub>Backend is not about endpoints. It's about <b>guarantees</b>.</sub>
+<br/>
+<sub>Backend uç noktalarla ilgili değildir — <b>garantilerle</b> ilgilidir.</sub>
 </div>
